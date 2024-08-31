@@ -1,0 +1,12 @@
+<resources>
+    <string-array name="days">
+
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+
+
+    </string-array>
+</resources>
